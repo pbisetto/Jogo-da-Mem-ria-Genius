@@ -4,4 +4,4 @@
 
 Nesse projeto, o desafio foi criar um jogo Genius utilizando apenas HTML, CSS e Javascript.
 
-![image](https://user-images.githubusercontent.com/100386404/163896209-e7572f7e-2914-4230-9e4d-6f1d848bb14d.png)
+![genius](https://user-images.githubusercontent.com/100386404/163896563-eb6b6b81-e645-4d56-a9c2-6d8159a47b1e.png)
